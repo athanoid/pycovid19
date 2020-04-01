@@ -1,4 +1,4 @@
-
+![python3](https://img.shields.io/badge/Python-3.7-blue)
 # pycovid19
 
 ## Jupyter notebooks with plots through [plotly](https://plot.ly/python/) library for COVID-19 datasets.
